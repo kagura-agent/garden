@@ -1,0 +1,7 @@
+node_modules/
+.memex/
+.memexrc
+*.env
+credentials*
+token*
+*.key
