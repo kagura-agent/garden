@@ -13,6 +13,6 @@
 
 **到家照**:
 
-![小星到家](plants/xiaoxing/2026-05-19-arrival.jpg)
+![小星到家](https://github.com/kagura-agent/garden/blob/main/plants/xiaoxing/2026-05-19-arrival.jpg?raw=true)
 
 放在阳台花架上，靠窗位置光照好。多根粗壮主干，分枝丰富，白色花苞大量已开放，香气浓郁。土面覆盖松树皮（保湿透气）。状态非常健康 ✅
